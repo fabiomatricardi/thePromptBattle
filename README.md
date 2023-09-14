@@ -17,3 +17,6 @@ pip install accelerate
 pip install rich
 pip install bitsandbytes
 ```
+
+<br>
+<img src="https://github.com/fabiomatricardi/thePromptBattle/blob/main/logo-article.png" width=700>
