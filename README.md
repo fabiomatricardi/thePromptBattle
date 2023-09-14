@@ -5,3 +5,15 @@ Putting LLMs to the Test: Analyzing Performance of Orca-3b, Llama2–7b and Plat
 - The 3 python files contains the code for the loop over the questions.
 - Every model will generate a dedicated txt file to log the questions and answers
 <br>
+
+### Requirements
+
+
+```python
+pip  install mkl mkl-include 
+pip install torch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0
+pip install llama-cpp-python==0.1.78
+pip install accelerate
+pip install rich
+pip install bitsandbytes
+```
