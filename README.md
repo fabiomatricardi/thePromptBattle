@@ -20,3 +20,9 @@ pip install bitsandbytes
 
 <br>
 <img src="https://github.com/fabiomatricardi/thePromptBattle/blob/main/logo-article.png" width=700>
+
+
+## Final evaluation
+<img src="https://github.com/fabiomatricardi/thePromptBattle/raw/main/finalTable.png" width=600>
+
+For detailed explanations and reasoning read the Medium article.
